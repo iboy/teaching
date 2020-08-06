@@ -1,0 +1,16 @@
+{
+  "name": "bookingsystem-nodejs",
+  "version": "0.0.1",
+  "description": "Using node.js and Google Cloud to create and deploy a simple open evening booking system for Langtons.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Grant",
+  "license": "ISC"
+}
